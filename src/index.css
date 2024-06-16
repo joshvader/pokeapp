@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.active{
+    color:rgb(2, 199, 199);
+    text-decoration: none;
+    
+}
+
+.inactive{
+    color: ghostwhite;
+    /* sin subrayado  */
+    text-decoration: none;
+}
